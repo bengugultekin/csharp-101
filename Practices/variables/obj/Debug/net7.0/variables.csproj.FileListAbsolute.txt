@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\bin\Debug\net7.0\variables.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\bin\Debug\net7.0\variables.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\bin\Debug\net7.0\variables.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\bin\Debug\net7.0\variables.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\bin\Debug\net7.0\variables.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\variables.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\variables.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\variables.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\variables.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\refint\variables.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\variables.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\variables.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\variables\obj\Debug\net7.0\ref\variables.dll

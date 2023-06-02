@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\bin\Debug\net7.0\tip-donusumu.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\bin\Debug\net7.0\tip-donusumu.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\bin\Debug\net7.0\tip-donusumu.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\bin\Debug\net7.0\tip-donusumu.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\bin\Debug\net7.0\tip-donusumu.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\tip-donusumu.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\tip-donusumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\tip-donusumu.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\tip-donusumu.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\tip-donusumu.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\tip-donusumu.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\refint\tip-donusumu.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\tip-donusumu.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\tip-donusumu.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\tip-donusumu\obj\Debug\net7.0\ref\tip-donusumu.dll

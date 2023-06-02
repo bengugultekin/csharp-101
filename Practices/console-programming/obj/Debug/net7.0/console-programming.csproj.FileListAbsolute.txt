@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\bin\Debug\net7.0\console-programming.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\bin\Debug\net7.0\console-programming.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\bin\Debug\net7.0\console-programming.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\bin\Debug\net7.0\console-programming.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\bin\Debug\net7.0\console-programming.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\console-programming.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\console-programming.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\console-programming.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\console-programming.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\console-programming.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\refint\console-programming.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\console-programming.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\console-programming.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\console-programming\obj\Debug\net7.0\ref\console-programming.dll
