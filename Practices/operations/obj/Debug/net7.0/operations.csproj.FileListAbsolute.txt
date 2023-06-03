@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\bin\Debug\net7.0\operations.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\bin\Debug\net7.0\operations.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\bin\Debug\net7.0\operations.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\bin\Debug\net7.0\operations.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\bin\Debug\net7.0\operations.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\operations.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\operations.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\operations.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\operations.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\operations.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\refint\operations.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\operations.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\operations.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\operations\obj\Debug\net7.0\ref\operations.dll
