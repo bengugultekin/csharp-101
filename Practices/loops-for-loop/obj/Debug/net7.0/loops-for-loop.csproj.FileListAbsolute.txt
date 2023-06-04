@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\bin\Debug\net7.0\loops-for-loop.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\bin\Debug\net7.0\loops-for-loop.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\bin\Debug\net7.0\loops-for-loop.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\bin\Debug\net7.0\loops-for-loop.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\bin\Debug\net7.0\loops-for-loop.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\loops-for-loop.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\loops-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\loops-for-loop.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\loops-for-loop.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\loops-for-loop.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\loops-for-loop.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\refint\loops-for-loop.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\loops-for-loop.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\loops-for-loop.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\loops-for-loop\obj\Debug\net7.0\ref\loops-for-loop.dll
