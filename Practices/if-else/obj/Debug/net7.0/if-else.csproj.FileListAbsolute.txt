@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\bin\Debug\net7.0\if-else.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\bin\Debug\net7.0\if-else.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\bin\Debug\net7.0\if-else.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\bin\Debug\net7.0\if-else.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\bin\Debug\net7.0\if-else.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\if-else.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\if-else.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\if-else.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\if-else.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\if-else.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\refint\if-else.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\if-else.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\if-else.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\if-else\obj\Debug\net7.0\ref\if-else.dll
