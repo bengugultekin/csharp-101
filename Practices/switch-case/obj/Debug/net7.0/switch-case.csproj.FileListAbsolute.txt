@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\bin\Debug\net7.0\switch-case.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\bin\Debug\net7.0\switch-case.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\bin\Debug\net7.0\switch-case.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\bin\Debug\net7.0\switch-case.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\bin\Debug\net7.0\switch-case.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\switch-case.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\refint\switch-case.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\switch-case.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\switch-case.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\switch-case\obj\Debug\net7.0\ref\switch-case.dll
