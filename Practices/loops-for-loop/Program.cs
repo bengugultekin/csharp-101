@@ -4,6 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
+        int n =6;
+        for (int i = 1; i <= n; i++) {
+            var spaces = new String(' ', n - i);
+            var hashes = new String('#', i);
+            Console.WriteLine(spaces + hashes);
+        }
+
         // Ekranda girilen sayıya kadar olan tek sayıları ekrana yazdırır.
         Console.WriteLine("Lütfen bir sayı giriniz:");
         int sayac = int.Parse(Console.ReadLine());
