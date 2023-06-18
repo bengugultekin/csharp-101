@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\bin\Debug\net7.0\recursive-extentions-methods.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\bin\Debug\net7.0\recursive-extentions-methods.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\bin\Debug\net7.0\recursive-extentions-methods.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\bin\Debug\net7.0\recursive-extentions-methods.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\bin\Debug\net7.0\recursive-extentions-methods.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\recursive-extentions-methods.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\recursive-extentions-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\recursive-extentions-methods.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\recursive-extentions-methods.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\recursive-extentions-methods.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\recursive-extentions-methods.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\refint\recursive-extentions-methods.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\recursive-extentions-methods.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\recursive-extentions-methods.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Practices\recursive-extentions-methods\obj\Debug\net7.0\ref\recursive-extentions-methods.dll
