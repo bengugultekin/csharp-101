@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\bin\Debug\net7.0\equal-or-divisible.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\bin\Debug\net7.0\equal-or-divisible.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\bin\Debug\net7.0\equal-or-divisible.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\bin\Debug\net7.0\equal-or-divisible.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\bin\Debug\net7.0\equal-or-divisible.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\equal-or-divisible.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\equal-or-divisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\equal-or-divisible.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\equal-or-divisible.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\equal-or-divisible.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\equal-or-divisible.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\refint\equal-or-divisible.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\equal-or-divisible.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\equal-or-divisible.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\equal-or-divisible\obj\Debug\net7.0\ref\equal-or-divisible.dll
