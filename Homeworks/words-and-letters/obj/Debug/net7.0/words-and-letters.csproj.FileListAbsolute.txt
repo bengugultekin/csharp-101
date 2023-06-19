@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\bin\Debug\net7.0\words-and-letters.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\bin\Debug\net7.0\words-and-letters.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\bin\Debug\net7.0\words-and-letters.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\bin\Debug\net7.0\words-and-letters.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\bin\Debug\net7.0\words-and-letters.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\words-and-letters.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\words-and-letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\words-and-letters.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\words-and-letters.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\words-and-letters.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\words-and-letters.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\refint\words-and-letters.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\words-and-letters.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\words-and-letters.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\words-and-letters\obj\Debug\net7.0\ref\words-and-letters.dll
