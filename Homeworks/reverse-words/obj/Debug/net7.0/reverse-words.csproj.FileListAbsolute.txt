@@ -1,0 +1,15 @@
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\bin\Debug\net7.0\reverse-words.exe
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\bin\Debug\net7.0\reverse-words.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\bin\Debug\net7.0\reverse-words.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\bin\Debug\net7.0\reverse-words.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\bin\Debug\net7.0\reverse-words.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\reverse-words.csproj.AssemblyReference.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\reverse-words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\reverse-words.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\reverse-words.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\reverse-words.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\reverse-words.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\refint\reverse-words.dll
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\reverse-words.pdb
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\reverse-words.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\dotnet\Homeworks\reverse-words\obj\Debug\net7.0\ref\reverse-words.dll
